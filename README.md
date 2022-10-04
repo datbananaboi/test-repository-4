@@ -7,6 +7,16 @@ this repository is to test the markdwon system on github
 
 __underline__
 
+~~strikethrough~~
+
 ```py
 print("Codeblock!")
 ```
+
+# Headings
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
