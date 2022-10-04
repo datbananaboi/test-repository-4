@@ -13,10 +13,5 @@ __underline__
 print("Codeblock!")
 ```
 
-# Headings
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+
+Consequently, the position where it is, is now the position that it wasn't, and it follows that the position that it was, is now the position that it isn't.
